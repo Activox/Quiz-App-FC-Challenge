@@ -51,4 +51,5 @@ npm run dev
 ## Authors
 
 - [@Pottenwealder](https://github.com/Activox)
+-paulguillermo19@gmail.com
 
